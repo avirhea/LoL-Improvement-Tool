@@ -1,0 +1,14 @@
+.next/
+node_modules/
+data/matches/
+data/players/
+out/
+dist/
+coverage/
+.env
+.env*.local
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
