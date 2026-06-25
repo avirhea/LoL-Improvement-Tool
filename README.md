@@ -14,12 +14,6 @@ A League of Legends draft recommendation tool for new and intermediate Summoner'
 - Match ingestion scripts to collect ranked Summoner's Rift samples and build aggregate feature data.
 - Score breakdowns, explanations, risks, confidence, draft notes, and freshness metadata in every response.
 
-**Not yet implemented:**
-
-- Python ML/data service for large-scale ingestion and feature building.
-- Database or vector store (currently file-based).
-- LLM/RAG explanation generation.
-- Real matchup aggregates (lane opponent inference from match data).
 
 ## Run Locally
 
